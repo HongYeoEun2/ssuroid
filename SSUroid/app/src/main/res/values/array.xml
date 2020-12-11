@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="resId">
+        <item>@drawable/ssu</item>
+        <item>@drawable/ssu</item>
+        <item>@drawable/ssu</item>
+        <item>@drawable/ssu</item>
+        <item>@drawable/ssu</item>
+        <item>@drawable/ssu</item>
+        <item>@drawable/ssu</item>
+        <item>@drawable/ssu</item>
+        <item>@drawable/ssu</item>
+        <item>@drawable/ssu</item>
+        <item>@drawable/ssu</item>
+        <item>@drawable/ssu</item>
+        <item>@drawable/ssu</item>
+        <item>@drawable/ssu</item>
+        <item>@drawable/ssu</item>
+        <item>@drawable/ssu</item>
+        <item>@drawable/ssu</item>
+        <item>@drawable/ssu</item>
+    </integer-array>
+
+    <string-array name="title">
+        <item>IT학부 테라스</item>
+        <item>도담식당</item>
+        <item>학생회관 생협</item>
+        <item>융합특성화자유전공학부 과방</item>
+        <item>숭실마루</item>
+        <item>IT학부 사무실</item>
+        <item>기숙사 식당</item>
+        <item>학생회관 식당</item>
+        <item>동아리방</item>
+        <item>푸드코트</item>
+        <item>스넥코너</item>
+        <item>The Kitchen</item>
+        <item>카페331</item>
+        <item>서점</item>
+        <item>스페이스엔</item>
+        <item>우체국</item>
+        <item>스페이스앤</item>
+        <item>우리은행</item>
+    </string-array>
+
+    <string-array name="content">
+        <item>[정보과학관 2~5층 중앙복도]</item>
+        <item>[신양관 2층]</item>
+        <item>[학생회관 4층]</item>
+        <item>[문화관 303호]</item>
+        <item>[중앙도서관 6층]</item>
+        <item>[정보과학관 1층]</item>
+        <item>[레지던스홀 지하 1층]</item>
+        <item>[학생회관 3층]</item>
+        <item>[학생회관 1~3층]</item>
+        <item>[학생회관 2층]</item>
+        <item>[학생회관 3층]</item>
+        <item>[전산관 1층]</item>
+        <item>[웨스트민스트홀 3층]</item>
+        <item>[신양관 1층]</item>
+        <item>[정보과학관 지하 1층]</item>
+        <item>[신양관 지하 1층]</item>
+        <item>[정보과학관 지하 1층]</item>
+        <item>[신양관 지하 1층]</item>
+    </string-array>
+</resources>
