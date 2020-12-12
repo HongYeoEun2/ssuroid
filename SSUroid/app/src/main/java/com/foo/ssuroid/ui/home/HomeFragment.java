@@ -49,7 +49,7 @@ public class HomeFragment extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
-
+/*
         db = FirebaseFirestore.getInstance();
         db.collection("users").document(user.getUid()).get()
                 .addOnCompleteListener(new OnCompleteListener<DocumentSnapshot>() {
@@ -66,6 +66,6 @@ public class HomeFragment extends Fragment {
                             Log.d(TAG, "get failed with ", task.getException());
                         }
                     }
-                });
+                });*/
     }
 }
